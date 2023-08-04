@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isccarrasco
+- 👋 Hi, I’m Mario
 - 👀 I’m interested in Backend development for data integration using Linked Data and Digital Thread using Java and Python 
 - 🌱 I’m currently learning Elixir and React
 - 💞️ I’m looking to collaborate on OSLC development or any API development
